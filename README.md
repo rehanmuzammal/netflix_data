@@ -21,7 +21,7 @@ This project uses a Netflix content dataset (`Dataset.csv`) containing details s
 
 **Skills:** Power BI Fundamentals, Power Query Editor, Data Transformation, Data Modeling
 
-![Task 1 Screenshot](screenshots/task1.png)
+![Task 1 Screenshot]([screenshots/task1.png](https://github.com/rehanmuzammal/netflix_data/blob/main/Screenshot%202026-09-03%20041258.png))
 
 ---
 
@@ -37,7 +37,7 @@ This project uses a Netflix content dataset (`Dataset.csv`) containing details s
 
 **Skills:** Dashboard Development, Visual Design, KPI Reporting, Data Storytelling
 
-![Task 2 Screenshot](screenshots/task2.png)
+![Task 2 Screenshot]([screenshots/task2.png](https://github.com/rehanmuzammal/netflix_data/blob/main/Screenshot%202026-09-03%20041258.png))
 
 ---
 
