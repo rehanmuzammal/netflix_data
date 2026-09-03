@@ -50,9 +50,7 @@ This project uses a Netflix content dataset (`Dataset.csv`) containing details s
 
 **Skills:** Map Charts, Drill-Down Reports, Geographic Analytics, Business Intelligence
 
-![Task 3 Screenshot](screenshots/task3.png)
-
----
+![Task 3 Screenshot] https://github.com/rehanmuzammal/netflix_data/blob/main/Global%20Insight.pngs
 
 ## Task 4 (Medium) — Content Growth & Trend Analysis
 
@@ -67,8 +65,7 @@ This project uses a Netflix content dataset (`Dataset.csv`) containing details s
 
 **Skills:** Trend Visualization, DAX Basics, Time Intelligence, Analytical Reporting
 
-![Task 4 Screenshot](screenshots/task4.png)
-
+![Task 4 Screenshot]
 ---
 
 ## 🛠️ Tools & Techniques Used
