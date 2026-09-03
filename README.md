@@ -21,9 +21,7 @@ This project uses a Netflix content dataset (`Dataset.csv`) containing details s
 
 **Skills:** Power BI Fundamentals, Power Query Editor, Data Transformation, Data Modeling
 
-![Task 1 Screenshot]([screenshots/task1.png](https://github.com/rehanmuzammal/netflix_data/blob/main/Screenshot%202026-09-03%20041258.png))
-
----
+![Task 1 Screenshot] https://github.com/rehanmuzammal/netflix_data/blob/main/Dashbord%20Overview.png
 
 ## Task 2 (Easy) — Netflix Content Overview Dashboard
 
@@ -37,9 +35,7 @@ This project uses a Netflix content dataset (`Dataset.csv`) containing details s
 
 **Skills:** Dashboard Development, Visual Design, KPI Reporting, Data Storytelling
 
-![Task 2 Screenshot]([screenshots/task2.png](https://github.com/rehanmuzammal/netflix_data/blob/main/Screenshot%202026-09-03%20041258.png))
-
----
+![Task 2 Screenshot] https://github.com/rehanmuzammal/netflix_data/blob/main/Dashbord%20Overview.png
 
 ## Task 3 (Medium) — Global Content Insights Dashboard
 
