@@ -65,12 +65,8 @@ This project uses a Netflix content dataset (`Dataset.csv`) containing details s
 
 **Skills:** Trend Visualization, DAX Basics, Time Intelligence, Analytical Reporting
 
-![Task 4 Screenshot]
----
+![Task 4 Screenshot]https://github.com/rehanmuzammal/netflix_data/blob/main/Screenshot%202026-09-06%20012811.png
 
-## 🛠️ Tools & Techniques Used
-
-**Core Tool:**
 - Power BI Desktop
 
 **Power Query Editor (Data Cleaning & Transformation):**
